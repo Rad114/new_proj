@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "date": "2026-08-24 10:54:01",
+        "database": "hotel_booking.csv",
+        "query": "SELECT * FROM hotel_booking ORDER BY booking_changes DESC LIMIT 5",
+        "type": "query",
+        "question": "Show the top 5 records.",
+        "sql": "SELECT * FROM hotel_booking ORDER BY booking_changes DESC LIMIT 5",
+        "rows": 5,
+        "chart_type": "",
+        "x_column": "",
+        "y_column": ""
+    }
+]
